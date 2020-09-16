@@ -3,8 +3,8 @@ Some SQL query examples in Jupyter Notebook
 
 So far, it includes:
 
- - A Jupyter Notebook file of queries using a modified version of the Chinook example database.
-This version of the database is from Dataquest: www.dataquest.io
+- A Jupyter Notebook file of queries using a modified version of the Chinook example database
+    - This version of the database is from Dataquest: www.dataquest.io
 - A schem diagram for the database
 
 The examples include:
