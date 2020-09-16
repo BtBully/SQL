@@ -5,7 +5,7 @@ So far, it includes:
 
 - A Jupyter Notebook file of queries using a modified version of the Chinook example database
     - This version of the database is from Dataquest: www.dataquest.io
-- A schem diagram for the database
+- A schema diagram for the database
 
 The examples include:
   - Completed excerises from the Dataquest Data Analysis course, with some additions
